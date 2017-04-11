@@ -1,0 +1,3 @@
+Yes:13
+No:14
+Neutral:5
